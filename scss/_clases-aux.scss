@@ -1,0 +1,67 @@
+.socials_staff{
+	#iconos i{
+		@include links;
+		}
+}
+.separador{
+	font-size: 1.6rem;
+	font-family: 'Montserrat', sans-serif;
+	background-color: black;
+	text-align: center;
+	font-size: 1.7rem;
+	font-weight: 700;
+	color: #fafafa;
+	padding: 1rem;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #d9d9d9;
+	text-shadow: -1px -1px 1px rgba(31, 231, 24, 0.945), 1px 2px 1px rgb(5, 143, 197);
+	@media all and (max-width: 576px){
+		font-size: 1rem;
+		font-weight: 700;
+	}
+}
+
+.montserrat{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.montserrat_h1{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 4rem;
+}
+.precios{
+	font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.gallery{
+	background-color: #dbddf1;
+	padding: 0 0;
+	margin-top: 0;
+	padding-bottom: 1rem;
+	margin-bottom: 1.5rem;
+	&:last-child{
+	margin-bottom: 4rem;
+	}
+	img{
+		background-color: #3fc9a5;
+		padding: 1rem;
+		width: 100%;
+		transition: 500ms;
+		box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+		&:hover{
+			transform: scale(1.1);
+			background-color: rgba(63, 201, 164, 0.514);
+		}
+	}
+}
+.subtitulo_3d{
+	font-weight: 400;
+	letter-spacing: 6px;
+	text-shadow: 2px 2px 0 #000000, 2px -2px 0 #35bf6a, -2px 2px 0 #ea4e5e, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+	font-size: 1.3rem;
+}
+.subtitulo_comun{
+	text-shadow: #474747 4px 3px 5px;
+}

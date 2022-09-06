@@ -1,0 +1,74 @@
+[
+    {
+        "nombre":"Martillo",
+        "precio":700,
+        "stock":50,
+        "categoria":"Herramientas manuales",
+        "codigoProducto":100,
+        "img":"img/martillo-150x64.jpg"
+    },
+    {
+        "nombre":"Alicate",
+        "precio":800,
+        "stock":20,
+        "categoria":"Herramientas manuales",
+        "codigoProducto":101,
+        "img":"img/alicate105252-150x64.jpg"
+    },
+    {
+        "nombre":"Anteojos",
+        "precio":250,
+        "stock":30,
+        "categoria":"Seguridad",
+        "codigoProducto":102,
+        "img":"img/gafas.jpg"
+    },
+    {
+        "nombre":"Destornillador ",
+        "precio":400,
+        "stock":20,
+        "categoria":"Herramientas manuales",
+        "codigoProducto":103,
+        "img":"img/destornillador258857-150x29.jpg"
+    },
+    {
+        "nombre":"Kit Llaves",
+        "precio":400,
+        "stock":10,
+        "categoria":"Herramientas manuales",
+        "codigoProducto":104,
+        "img":"img/kitLllaves513148-150x130.jpg"
+    },
+    {
+        "nombre":"Taladro",
+        "precio":700,
+        "stock":30,
+        "categoria":"Herramientas electricas",
+        "codigoProducto":200,
+        "img":"img/taladro800295-150x104.jpg"
+    },
+    {
+        "nombre":"Rotomartillo",
+        "precio":800,
+        "stock":10,
+        "categoria":"Herramientas electricas",
+        "codigoProducto":201,
+        "img":"img/rotoMartillo800279-150x112.jpg"
+    },
+    {
+        "nombre":"Caladora",
+        "precio":400,
+        "stock":30,
+        "categoria":"Herramientas electricas",
+        "codigoProducto":202,
+        "img":"img/caladora813095-150x157.jpg"
+    },
+    {
+        "nombre":"Amoladora",
+        "precio":400,
+        "stock":70,
+        "categoria":"Herramientas electricas",
+        "codigoProducto":203,
+        "img":"img/amoladora800244-150x66.jpg"
+    }
+]

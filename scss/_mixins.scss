@@ -1,0 +1,9 @@
+@mixin links{
+    font-size: 2rem;
+    padding: 0 1rem;
+    color: #fafafa;
+    transition: 200ms;
+    &:hover{
+        color: $color-footer-hover;
+    }
+}

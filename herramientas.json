@@ -24,7 +24,7 @@
         "img":"img/gafas.jpg"
     },
     {
-        "nombre":"Destornillador ",
+        "nombre":"Destornillador",
         "precio":400,
         "stock":20,
         "categoria":"Herramientas manuales",

@@ -122,22 +122,16 @@ header h3 {
   color: #77dd77;
 }
 #header #img-logo {
-  width: 110px;
-}
-@media all and (max-width: 576px) {
-  #header #img-logo {
-    width: 100px;
-  }
-}
-@media all and (max-width: 461px) {
-  #header #img-logo {
-    width: 85px;
-  }
-}
-@media all and (max-width: 375px) {
-  #header #img-logo {
-    width: 70px;
-  }
+  width: 64px;
+  /* 	@media all and (max-width: 576px){
+  	width: 55px;
+  	}
+  	@media all and (max-width: 461px){
+  	width: 45px; 
+  	}
+  	@media all and (max-width: 375px){
+  	width: 70px;
+  	} */
 }
 #header #img-cart {
   width: 120px;
